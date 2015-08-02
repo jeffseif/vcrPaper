@@ -1,7 +1,7 @@
 Analysis of local void coefficients of reactivity in the reduced moderation BWR
 ===============================================================================
 
-A paper authored by Jeffrey E. Seifried and Ehud Greenspan, submitted to [Nuclear Science and Engineering](http://www.ans.org/pubs/journals/nse/).  LaTeX template was plucked from [here](https://github.com/paulromano/ans-latex-class).
+A paper authored by Jeffrey E. Seifried and Ehud Greenspan, submitted to [Nuclear Science and Engineering](http://www.ans.org/pubs/journals/nse/), published in [September, 2015](http://dx.doi.org/10.13182/NSE14-104).  LaTeX template was plucked from [here](https://github.com/paulromano/ans-latex-class).
 
 Abstract
 --------
